@@ -1,4 +1,8 @@
-
+t0 statrted 
+after 
+stashed 
+command 
+exicuted
 t 1
 
 
